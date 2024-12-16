@@ -1,7 +1,10 @@
 # Habitat-Suitability
 Final project for Earth Analytics AY24.
 
-Instructions: The notebooks are designed to be run in numerical order. If different National Forests are to be analyzed, select for them in the fourth cell of 01-boundaries.ipynb and add the GeoDataFrame to the site list in the same cell. Plot titles in 07-results.ipynb will need to be altered by hand.
+Instructions: The notebooks are designed to be run in numerical order. 
+If different National Forests are to be analyzed, select for them in the fourth cell of 
+01-boundaries.ipynb and add the GeoDataFrame to the site list in the same cell. Plot titles in 
+07-results.ipynb will need to be altered by hand.
 
 
 ## Future Tasks:
